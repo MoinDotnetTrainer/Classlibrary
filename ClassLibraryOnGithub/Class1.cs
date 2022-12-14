@@ -30,11 +30,6 @@
         public static void test1()
         {
             Console.WriteLine("test1");
-        } 
-        public static void test3()
-        {
-            Console.WriteLine("test3");
         }
-
     }
 }
