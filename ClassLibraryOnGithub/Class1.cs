@@ -26,5 +26,10 @@
         {
             Console.WriteLine("test");
         }
+
+        public static void test1()
+        {
+            Console.WriteLine("test1");
+        }
     }
 }
