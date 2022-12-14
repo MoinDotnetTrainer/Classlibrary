@@ -21,5 +21,10 @@
         {
             Console.WriteLine("Div");
         }
+
+        public static void test()
+        {
+            Console.WriteLine("test");
+        }
     }
 }
